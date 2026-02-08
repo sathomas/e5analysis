@@ -54,3 +54,12 @@ Symbolic Math Toolbox                                 Version 25.2        (R2025
 -  Reference data from Polar OH1 via Wahoo Bolt 
 
 ![figure_4.png](./Figures/figure_4.png)
+# Activity 6: Long Run 2026\-02\-08
+-  Tag Heuer OS version 5.5.16 
+-  Tag Heuer Sports version 1.5.8 
+-  New Balance Velcro Strap worn tight and ~ 20mm higher than normal 
+-  Reference data from Amazfit Helio Strap 
+-  Cadence data not available 
+-  E5 manually paused at ~ 27 minutes; time synchronization lost 
+
+![figure_5.png](./Figures/figure_5.png)
