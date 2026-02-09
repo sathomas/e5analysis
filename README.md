@@ -1,7 +1,7 @@
 
 # Analyzing Heart Rate Accuracy for Tag Heuer Connected Calibre E5
 
-Comparing the heart rate measurements, during activities, of my Tag Heuer Connected Calibre E5 × New Balance Edition (reference SBT8082.EB0394). That this reference has a case diameter of 40mm and the case material is titanium.
+Comparing the heart rate measurements, during activities, of my Tag Heuer Connected Calibre E5 × New Balance Edition (reference SBT8082.EB0394). This reference has a case diameter of 40mm and the case material is titanium.
 
 
 ```matlabTextOutput
@@ -63,3 +63,10 @@ Symbolic Math Toolbox                                 Version 25.2        (R2025
 -  E5 manually paused at ~ 27 minutes; time synchronization lost 
 
 ![figure_5.png](./Figures/figure_5.png)
+# Activity 7: Strength Training 2026\-02\-09
+-  Tag Heuer OS version 5.5.16 
+-  Tag Heuer Sports version 1.5.8 
+-  Elastic strap worn semi\-tight 
+-  Reference data from Polar Verity Sense 
+
+![figure_6.png](./Figures/figure_6.png)
