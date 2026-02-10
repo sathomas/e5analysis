@@ -86,7 +86,7 @@ E5 = ReadData(Filename="Raw Data/2026-02-08 Long Run/2026-02-08-105400-Outdoor R
 
 [Correlation, TimeLimits] = CompareData(Data1=Reference, Data2=E5);
 
-PlotCorrelation(Reference=Reference, E5=E5, Correlation=Correlation, TimeLimits=TimeLimits, Title="Tempo Run");
+PlotCorrelation(Reference=Reference, E5=E5, Correlation=Correlation, TimeLimits=TimeLimits, Title="Long Run");
 %%
 %[text] ## Activity 7: Strength Training 2026-02-09
 %[text] - Tag Heuer OS version 5.5.16
@@ -99,6 +99,19 @@ E5 = ReadData(Filename="Raw Data/2026-02-09 Strength Training/2026-02-09-105825-
 [Correlation, TimeLimits] = CompareData(Data1=Reference, Data2=E5);
 
 PlotCorrelation(Reference=Reference, E5=E5, Correlation=Correlation, TimeLimits=TimeLimits, Title="Strength Training");
+%%
+%[text] ## Activity 8: Tempo Run 2026-02-10
+%[text] - Tag Heuer OS version 5.5.16
+%[text] - Tag Heuer Sports version 1.5.8
+%[text] - New Balance Velcro worn tight and higher than normal
+%[text] - Reference data from Amazfit Helio Strap
+%[text] - No cadence data \
+Reference = ReadData(Filename="Raw Data/2026-02-10 Tempo Run/2026-02-10-114829-Other-Zepp.csv");
+E5 = ReadData(Filename="Raw Data/2026-02-10 Tempo Run/2026-02-10-114838-Outdoor Running-TAG Heuer.csv");
+
+[Correlation, TimeLimits] = CompareData(Data1=Reference, Data2=E5);
+
+PlotCorrelation(Reference=Reference, E5=E5, Correlation=Correlation, TimeLimits=TimeLimits, Title="Tempo Run");
 %%
 CurrentScript = matlab.desktop.editor.getActiveFilename;
 export(CurrentScript, "README.md", Format="markdown", HideCode=true, MediaLocation="Figures/", FigureFormat="png");
@@ -184,7 +197,7 @@ function [Correlation, TimeLimits] = CompareData(Args)
     % Remove data before and after the overlap
     CombinedData = CombinedData(TimeRange, :);
 
-    Correlation = corr(CombinedData.HR_1, CombinedData.HR_2);
+    Correlation = abs(corr(CombinedData.HR_1, CombinedData.HR_2));
 
 end
 

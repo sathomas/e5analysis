@@ -70,3 +70,11 @@ Symbolic Math Toolbox                                 Version 25.2        (R2025
 -  Reference data from Polar Verity Sense 
 
 ![figure_6.png](./Figures/figure_6.png)
+# Activity 8: Tempo Run 2026\-02\-10
+-  Tag Heuer OS version 5.5.16 
+-  Tag Heuer Sports version 1.5.8 
+-  New Balance Velcro worn tight and higher than normal 
+-  Reference data from Amazfit Helio Strap 
+-  No cadence data 
+
+![figure_7.png](./Figures/figure_7.png)
