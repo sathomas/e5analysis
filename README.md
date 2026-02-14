@@ -8,7 +8,7 @@ Comparing the heart rate measurements, during activities, of my Tag Heuer Connec
 -------------------------------------------------------
 MATLAB Version: 25.2.0.3123386 (R2025b) Update 3
 MATLAB License Number: 41249549
-Operating System: macOS  Version: 15.7.3 Build: 24G419 
+Operating System: macOS  Version: 15.7.4 Build: 24G517 
 Java Version: Java is not loaded
 -------------------------------------------------------
 MATLAB                                                Version 25.2        (R2025b)
@@ -78,3 +78,50 @@ Symbolic Math Toolbox                                 Version 25.2        (R2025
 -  No cadence data 
 
 ![figure_7.png](./Figures/figure_7.png)
+# Activity 9: Indoor Cycling 2026\-02\-11
+-  Tag Heuer OS version 5.5.16 
+-  Tag Heuer Sports version 1.5.8 
+-  New Balance Velcro Strap worn tight and 15mm higher on arm 
+-  Reference data from Polar OH1 via Wahoo Bolt 
+
+![figure_8.png](./Figures/figure_8.png)
+# Activity 10: Test Run (1) 2026\-02\-11
+-  Tag Heuer OS version 5.5.16 
+-  Tag Heuer Sports version 1.5.8 
+-  New Balance Velcro worn tight and higher than normal 
+-  Reference data from Amazfit Helio Strap 
+-  Cadence data from Stryd 
+
+![figure_9.png](./Figures/figure_9.png)
+# Activity 11: Test Run (2) 2026\-02\-11
+-  Tag Heuer OS version 5.5.16 
+-  Tag Heuer Sports version 1.5.8 
+-  New Balance Velcro worn tight and higher than normal 
+-  Reference data from Amazfit Helio Strap 
+-  Cadence data from Stryd 
+
+![figure_10.png](./Figures/figure_10.png)
+# Activity 12: Test Run (3) 2026\-02\-11
+-  Tag Heuer OS version 5.5.16 
+-  Tag Heuer Sports version 1.5.8 
+-  New Balance Velcro worn tight and higher than normal 
+-  Reference data from Amazfit Helio Strap 
+-  No cadence data 
+
+![figure_11.png](./Figures/figure_11.png)
+# Activity 13: Easy Run 2026\-02\-12
+-  Tag Heuer OS version 5.5.16 
+-  Tag Heuer Sports version 1.5.8 
+-  New BalanceVelcro Strap worn tight and high 
+-  Reference data from Amazfit Helio Strap 
+-  Cadence data from Stryd footpod 
+
+![figure_12.png](./Figures/figure_12.png)
+# Activity 14: Long Run 2026\-02\-14
+-  Tag Heuer OS version 5.5.16 
+-  Tag Heuer Sports version 1.5.8 
+-  New BalanceVelcro Strap worn on inside of wrist 
+-  Reference data from Amazfit Helio Strap 
+-  Cadence data from Stryd footpod 
+
+![figure_13.png](./Figures/figure_13.png)
