@@ -125,3 +125,10 @@ Symbolic Math Toolbox                                 Version 25.2        (R2025
 -  Cadence data from Stryd footpod 
 
 ![figure_13.png](./Figures/figure_13.png)
+# Activity 15: Indoor Cycling 2026\-02\-15
+-  Tag Heuer OS version 5.5.16 
+-  Tag Heuer Sports version 1.5.8 
+-  Aftermarket velcro strap 
+-  Reference data from Polar OH1 via Wahoo Bolt 
+
+![figure_14.png](./Figures/figure_14.png)
