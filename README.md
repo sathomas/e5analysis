@@ -112,7 +112,7 @@ Symbolic Math Toolbox                                 Version 25.2        (R2025
 # Activity 13: Easy Run 2026\-02\-12
 -  Tag Heuer OS version 5.5.16 
 -  Tag Heuer Sports version 1.5.8 
--  New BalanceVelcro Strap worn tight and high 
+-  New Balance Velcro Strap worn tight and high 
 -  Reference data from Amazfit Helio Strap 
 -  Cadence data from Stryd footpod 
 
@@ -120,7 +120,7 @@ Symbolic Math Toolbox                                 Version 25.2        (R2025
 # Activity 14: Long Run 2026\-02\-14
 -  Tag Heuer OS version 5.5.16 
 -  Tag Heuer Sports version 1.5.8 
--  New BalanceVelcro Strap worn on inside of wrist 
+-  New Balance Velcro Strap worn on inside of wrist 
 -  Reference data from Amazfit Helio Strap 
 -  Cadence data from Stryd footpod 
 
@@ -132,3 +132,20 @@ Symbolic Math Toolbox                                 Version 25.2        (R2025
 -  Reference data from Polar OH1 via Wahoo Bolt 
 
 ![figure_14.png](./Figures/figure_14.png)
+# Activity 16: Cycling 2026\-02\-16
+-  Tag Heuer OS version 5.5.16 
+-  Tag Heuer Sports version 1.5.8 
+-  Aftermarket velcro strap 
+-  Reference data from Polar OH10 via Wahoo Bolt 
+
+Can't really compare these because Bolt paused during stops while E5 did not. But just for exploration.
+
+![figure_15.png](./Figures/figure_15.png)
+# Activity 17: Interval Run 2026\-02\-17
+-  Tag Heuer OS version 5.5.16 
+-  Tag Heuer Sports version 1.5.8 
+-  New Balance Rubber Strap worn on inside of wrist 
+-  Reference data from Amazfit Helio Strap 
+-  Cadence data from Stryd footpod 
+
+![figure_16.png](./Figures/figure_16.png)
