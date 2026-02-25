@@ -18,21 +18,21 @@ Statistics and Machine Learning Toolbox               Version 25.2        (R2025
 Symbolic Math Toolbox                                 Version 25.2        (R2025b)
 ```
 
-# Activity 1: Indoor Cycling 2026\-02\-04
+# Indoor Cycling 2026\-02\-04
 -  Tag Heuer OS version 5.5.16 
 -  Tag Heuer Sports version 1.5.8 
 -  Black rubber strap worn normally (hole 4) 
 -  Reference data from Polar OH1 via Wahoo Bolt 
 
 ![figure_0.png](./Figures/figure_0.png)
-# Activity 2: Strength Training 2026\-02\-04
+# Strength Training 2026\-02\-04
 -  Tag Heuer OS version 5.5.16 
 -  Tag Heuer Sports version 1.5.8 
 -  New Balance Velcro Strap worn tight 
 -  Reference data from Amazfit Helio Strap 
 
 ![figure_1.png](./Figures/figure_1.png)
-# Activity 3: Tempo Run 2026\-02\-05
+# Tempo Run 2026\-02\-05
 -  Tag Heuer OS version 5.5.16 
 -  Tag Heuer Sports version 1.5.8 
 -  New Balance Rubber Strap worn tight (hole 3) 
@@ -40,21 +40,21 @@ Symbolic Math Toolbox                                 Version 25.2        (R2025
 -  Cadence data from Stryd footpod 
 
 ![figure_2.png](./Figures/figure_2.png)
-# Activity 4: Strength Training 2026\-02\-06
+# Strength Training 2026\-02\-06
 -  Tag Heuer OS version 5.5.16 
 -  Tag Heuer Sports version 1.5.8 
 -  Black Rubber Strap worn tight (hole 3) 
 -  Reference data from Amazfit Helio Strap 
 
 ![figure_3.png](./Figures/figure_3.png)
-# Activity 5: Indoor Cycling 2026\-02\-07
+# Indoor Cycling 2026\-02\-07
 -  Tag Heuer OS version 5.5.16 
 -  Tag Heuer Sports version 1.5.8 
 -  New Balance Velcro Strap worn tight and 15mm higher on arm 
 -  Reference data from Polar OH1 via Wahoo Bolt 
 
 ![figure_4.png](./Figures/figure_4.png)
-# Activity 6: Long Run 2026\-02\-08
+# Long Run 2026\-02\-08
 -  Tag Heuer OS version 5.5.16 
 -  Tag Heuer Sports version 1.5.8 
 -  New Balance Velcro Strap worn tight and ~ 20mm higher than normal 
@@ -63,14 +63,14 @@ Symbolic Math Toolbox                                 Version 25.2        (R2025
 -  E5 manually paused at ~ 27 minutes; time synchronization lost 
 
 ![figure_5.png](./Figures/figure_5.png)
-# Activity 7: Strength Training 2026\-02\-09
+# Strength Training 2026\-02\-09
 -  Tag Heuer OS version 5.5.16 
 -  Tag Heuer Sports version 1.5.8 
 -  Elastic strap worn semi\-tight 
 -  Reference data from Polar Verity Sense 
 
 ![figure_6.png](./Figures/figure_6.png)
-# Activity 8: Tempo Run 2026\-02\-10
+# Tempo Run 2026\-02\-10
 -  Tag Heuer OS version 5.5.16 
 -  Tag Heuer Sports version 1.5.8 
 -  New Balance Velcro worn tight and higher than normal 
@@ -78,14 +78,14 @@ Symbolic Math Toolbox                                 Version 25.2        (R2025
 -  No cadence data 
 
 ![figure_7.png](./Figures/figure_7.png)
-# Activity 9: Indoor Cycling 2026\-02\-11
+# Indoor Cycling 2026\-02\-11
 -  Tag Heuer OS version 5.5.16 
 -  Tag Heuer Sports version 1.5.8 
 -  New Balance Velcro Strap worn tight and 15mm higher on arm 
 -  Reference data from Polar OH1 via Wahoo Bolt 
 
 ![figure_8.png](./Figures/figure_8.png)
-# Activity 10: Test Run (1) 2026\-02\-11
+# Test Run (1) 2026\-02\-11
 -  Tag Heuer OS version 5.5.16 
 -  Tag Heuer Sports version 1.5.8 
 -  New Balance Velcro worn tight and higher than normal 
@@ -93,7 +93,7 @@ Symbolic Math Toolbox                                 Version 25.2        (R2025
 -  Cadence data from Stryd 
 
 ![figure_9.png](./Figures/figure_9.png)
-# Activity 11: Test Run (2) 2026\-02\-11
+# Test Run (2) 2026\-02\-11
 -  Tag Heuer OS version 5.5.16 
 -  Tag Heuer Sports version 1.5.8 
 -  New Balance Velcro worn tight and higher than normal 
@@ -101,7 +101,7 @@ Symbolic Math Toolbox                                 Version 25.2        (R2025
 -  Cadence data from Stryd 
 
 ![figure_10.png](./Figures/figure_10.png)
-# Activity 12: Test Run (3) 2026\-02\-11
+# Test Run (3) 2026\-02\-11
 -  Tag Heuer OS version 5.5.16 
 -  Tag Heuer Sports version 1.5.8 
 -  New Balance Velcro worn tight and higher than normal 
@@ -109,7 +109,7 @@ Symbolic Math Toolbox                                 Version 25.2        (R2025
 -  No cadence data 
 
 ![figure_11.png](./Figures/figure_11.png)
-# Activity 13: Easy Run 2026\-02\-12
+# Easy Run 2026\-02\-12
 -  Tag Heuer OS version 5.5.16 
 -  Tag Heuer Sports version 1.5.8 
 -  New Balance Velcro Strap worn tight and high 
@@ -117,7 +117,7 @@ Symbolic Math Toolbox                                 Version 25.2        (R2025
 -  Cadence data from Stryd footpod 
 
 ![figure_12.png](./Figures/figure_12.png)
-# Activity 14: Long Run 2026\-02\-14
+# Long Run 2026\-02\-14
 -  Tag Heuer OS version 5.5.16 
 -  Tag Heuer Sports version 1.5.8 
 -  New Balance Velcro Strap worn on inside of wrist 
@@ -125,14 +125,14 @@ Symbolic Math Toolbox                                 Version 25.2        (R2025
 -  Cadence data from Stryd footpod 
 
 ![figure_13.png](./Figures/figure_13.png)
-# Activity 15: Indoor Cycling 2026\-02\-15
+# Indoor Cycling 2026\-02\-15
 -  Tag Heuer OS version 5.5.16 
 -  Tag Heuer Sports version 1.5.8 
 -  Aftermarket velcro strap 
 -  Reference data from Polar OH1 via Wahoo Bolt 
 
 ![figure_14.png](./Figures/figure_14.png)
-# Activity 16: Cycling 2026\-02\-16
+# Road Cycling 2026\-02\-16
 -  Tag Heuer OS version 5.5.16 
 -  Tag Heuer Sports version 1.5.8 
 -  Aftermarket velcro strap 
@@ -141,7 +141,7 @@ Symbolic Math Toolbox                                 Version 25.2        (R2025
 Can't really compare these because Bolt paused during stops while E5 did not. But just for exploration.
 
 ![figure_15.png](./Figures/figure_15.png)
-# Activity 17: Interval Run 2026\-02\-17
+# Interval Run 2026\-02\-17
 -  Tag Heuer OS version 5.5.16 
 -  Tag Heuer Sports version 1.5.8 
 -  New Balance Rubber Strap worn on inside of wrist 
@@ -149,3 +149,18 @@ Can't really compare these because Bolt paused during stops while E5 did not. Bu
 -  Cadence data from Stryd footpod 
 
 ![figure_16.png](./Figures/figure_16.png)
+# Road Cycling 2026\-02\-19
+-  Tag Heuer OS version 5.5.16 
+-  Tag Heuer Sports version 1.5.8 
+-  Aftermarket elastic strap 
+-  Reference data from Polar OH10 via Wahoo Bolt 
+
+![figure_17.png](./Figures/figure_17.png)
+# Interval Run 2026\-02\-25
+-  Tag Heuer OS version 5.5.16 
+-  Tag Heuer Sports version ***1.5.10 (new version)*** 
+-  New Balance Velcro Strap worn on inside of wrist 
+-  Reference data from Amazfit Helio Strap 
+-  Cadence data from Stryd footpod 
+
+![figure_18.png](./Figures/figure_18.png)
